@@ -42,7 +42,7 @@ Download the checkpoint: [![Checkpoint](https://img.shields.io/badge/Checkpoint-
 ## Database:
 
 
-Night-time Weather Degraded Database is available at: [![Database](https://img.shields.io/badge/Database-<COLOR>.svg)](https://drive.google.com/drive/folders/1zsW1D8Wtj_0GH1OOHSL7dwR_MIkZ8-zp?usp=sharing)
+Synthetically Generated Night-time Weather Degraded Database is available at: [![Database](https://img.shields.io/badge/Database-<COLOR>.svg)](https://drive.google.com/drive/folders/1zsW1D8Wtj_0GH1OOHSL7dwR_MIkZ8-zp?usp=sharing)
 
 ```
 
