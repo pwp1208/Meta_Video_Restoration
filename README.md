@@ -39,6 +39,8 @@ Testing Procedure:
 	2. Run "testing.py"
 	3. Results will be saved in --output_path
 
+Download the checkpoint: [![Checkpoint](https://img.shields.io/badge/Checkpoint-<COLOR>.svg)](https://drive.google.com/drive/folders/1zsW1D8Wtj_0GH1OOHSL7dwR_MIkZ8-zp?usp=sharing)
+
 Night-time Weather Degraded Database is available at: [![Database](https://img.shields.io/badge/Database-<COLOR>.svg)](https://drive.google.com/drive/folders/1zsW1D8Wtj_0GH1OOHSL7dwR_MIkZ8-zp?usp=sharing)
 
 ```
@@ -58,4 +60,5 @@ If our method is useful for your research, please consider citing:
 
 ## Contact
 Please contact prashant.patil@deakin.edu.au, if you are facing any issue.
+
 
