@@ -40,7 +40,7 @@ Testing Procedure:
 	2. Run "testing.py"
 	3. Results will be saved in --output_path
 
-Night-time Weather Degraded Database is available at: (https://drive.google.com/file/d/1itwA0a1JQvS6sVsGDJ8Pt2DnQtG3UrJ8/view?usp=sharing)
+Night-time Weather Degraded Database is available at: (https://img.shields.io/badge/link-<COLOR>.svg)](https://drive.google.com/file/d/1itwA0a1JQvS6sVsGDJ8Pt2DnQtG3UrJ8/view?usp=sharing)
 
 ```
 
@@ -59,13 +59,3 @@ If our method is useful for your research, please consider citing:
 
 ## Contact
 Please contact prashant.patil@deakin.edu.au, if you are facing any issue.
-
-
-
-
-
-
-
-
-
-
