@@ -3,7 +3,7 @@
 Prashant W Patil, Sunil Gupta, Santu Rana, and Svetha Venkatesh
 
 
-[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://drive.google.com/file/d/1itwA0a1JQvS6sVsGDJ8Pt2DnQtG3UrJ8/view?usp=sharing)
+[![paper](https://img.shields.io/badge/Paper-<COLOR>.svg)](https://drive.google.com/file/d/1itwA0a1JQvS6sVsGDJ8Pt2DnQtG3UrJ8/view?usp=sharing)
 
 
 <hr />
@@ -56,6 +56,9 @@ If our method is useful for your research, please consider citing:
 
 ## Contact
 Please contact prashant.patil@deakin.edu.au, if you are facing any issue.
+
+
+
 
 
 
