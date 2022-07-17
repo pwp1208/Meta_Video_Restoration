@@ -32,7 +32,7 @@ Prashant W Patil, Sunil Gupta, Santu Rana, and Svetha Venkatesh
 	1. Scratch trained checkpoints for REVIDE and RainSynAll100 datasets.
 	2. Meta adapted checkpoints for "night time" Haze, Rain, and Rain+veling dataset.
 	3. Keep the checkpoints in "./checkpoints/dataset/"
-Download the checkpoint: [![Checkpoint](https://img.shields.io/badge/Checkpoint-<COLOR>.svg)](https://drive.google.com/file/d/144BGWIvF2d-dZA6_8y9rBgbbO9CvxULH/view?usp=sharing)
+Download the checkpoint: [![Checkpoint](https://img.shields.io/badge/Checkpoint-<COLOR>.svg)](https://drive.google.com/file/d/10ouP6HFPLAeGygmEmvhXHThks4EEJsRE/view?usp=sharing)
 
 ## Testing Procedure:
 	1. select options  --dataset, --test_dir, --checkpoint_path in "options.py"  
