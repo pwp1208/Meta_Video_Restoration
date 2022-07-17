@@ -14,8 +14,7 @@ Prashant W Patil, Sunil Gupta, Santu Rana, and Svetha Venkatesh
 
 <img src = 'Overview.png'> 
 
-
-Requirements:
+## Requirements:
 
 	Python >= 3.5
 
@@ -25,21 +24,23 @@ Requirements:
 
 	PIL
 
-Testing Videos:
+## Testing Videos:
 	Keep Testing Videos Frames in "videos/{dataset}" folder.
 
-Checkpoints:
+## Checkpoints:
 	The checkpoints are provided for:
 	1. Scratch trained checkpoints for REVIDE and RainSynAll100 datasets.
 	2. Meta adapted checkpoints for "night time" Haze, Rain, and Rain+veling dataset.
 	3. Keep the checkpoints in "./checkpoints/dataset/"
+Download the checkpoint: [![Checkpoint](https://img.shields.io/badge/Checkpoint-<COLOR>.svg)](https://drive.google.com/drive/folders/1zsW1D8Wtj_0GH1OOHSL7dwR_MIkZ8-zp?usp=sharing)
 
-Testing Procedure:
+## Testing Procedure:
 	1. select options  --dataset, --test_dir, --checkpoint_path in "options.py"  
 	2. Run "testing.py"
 	3. Results will be saved in --output_path
 
-Download the checkpoint: [![Checkpoint](https://img.shields.io/badge/Checkpoint-<COLOR>.svg)](https://drive.google.com/drive/folders/1zsW1D8Wtj_0GH1OOHSL7dwR_MIkZ8-zp?usp=sharing)
+## Database:
+
 
 Night-time Weather Degraded Database is available at: [![Database](https://img.shields.io/badge/Database-<COLOR>.svg)](https://drive.google.com/drive/folders/1zsW1D8Wtj_0GH1OOHSL7dwR_MIkZ8-zp?usp=sharing)
 
@@ -60,5 +61,3 @@ If our method is useful for your research, please consider citing:
 
 ## Contact
 Please contact prashant.patil@deakin.edu.au, if you are facing any issue.
-
-
