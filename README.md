@@ -14,8 +14,6 @@ Code for the Video Restoration Framework and its Meta-adaptations to Data-poor C
 ## Network Architecture
 
 <img src = 'Overview.png'> 
-<img src = 'Meta_framework.png'> 
-<img src = 'Proposed_network.png'> 
 
 
 Analysis of Proposed Architecture:
