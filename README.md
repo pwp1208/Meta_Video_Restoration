@@ -1,6 +1,4 @@
 # Meta_Video_Restoration
-Code for the Video Restoration Framework and its Meta-adaptations to Data-poor Conditions [ECCV-22] 
-
 # Video Restoration Framework and its Meta-adaptations to Data-poor Conditions ECCV2022)
 
 [![paper](https://drive.google.com/file/d/1itwA0a1JQvS6sVsGDJ8Pt2DnQtG3UrJ8/view?usp=sharing)]
@@ -15,15 +13,6 @@ Code for the Video Restoration Framework and its Meta-adaptations to Data-poor C
 
 <img src = 'Overview.png'> 
 
-
-Analysis of Proposed Architecture:
-1. Testing on REVIDE Database with the model trained from SCRATCH------testing_REVIDE.py
-2. Testing on RainSynAll100 Database with the model trained from SCRATCH------testing_RainSynAll100.py
-
-Analysis of Proposed Architecture with Meta Adaptation
-1. Testing on Night Rain+Veiling effect with the model trained from SCRATCH------>testing_scratch.py 
-2. Testing on Night Rain+Veiling effect with the model finetuned on Day time Rain+Veiling effect------>testing_finetune.py
-3. Testing on Night Rain+Veiling effect with the model adapted from meta model------>testing_meta.py
 
 Requirements:
 
