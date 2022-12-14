@@ -49,13 +49,13 @@ Synthetically Generated Night-time Weather Degraded Database is available at: [!
 ## Citation
 If our method is useful for your research, please consider citing:
     
-    @inproceedings{metarestoration2022,
-	title={Video Restoration Framework and its Meta-adaptations to Data-poor Conditions},
-	author={Prashant W Patil, Sunil Gupta, Santu Rana, and Svetha Venkatesh},
-	booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
-	pages={Accepted on 04/07/2022},
-	year={2022}
-
+@inproceedings{patil2022video,
+  title={Video Restoration Framework and Its Meta-adaptations to Data-Poor Conditions},
+  author={Patil, Prashant W and Gupta, Sunil and Rana, Santu and Venkatesh, Svetha},
+  booktitle={European Conference on Computer Vision},
+  pages={143--160},
+  year={2022},
+  organization={Springer}
 }
 
 
