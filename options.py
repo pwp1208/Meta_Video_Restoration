@@ -13,7 +13,7 @@ class TestOptions :
         self.parser.add_argument ('--pretrained_model_dir', type=str, default='pretrained_models', help='pretrained model are provided here')
         self.parser.add_argument ('--checkpoint_path', type=str, default='./ckpt/REVIDE/')
         self.parser.add_argument ('--output_path', type=str, default='./outputs/REVIDE/')
-        self.parser.add_argument ('--frame_format', type=str, default='.jpg')
+        self.parser.add_argument ('--frame_format', type=str, default='.png')
 
         self.initialized = True
 
