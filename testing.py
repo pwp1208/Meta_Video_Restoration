@@ -295,11 +295,14 @@ generator_optimizer = tf.keras.optimizers.Adam(2e-4, beta_1=0.5)
 checkpoint_dir = config.checkpoint_path
 if config.dataset == 0:
     checkpoint_prefix = os.path.join(checkpoint_dir, "ckpt")
+    checkpoint = tf.train.Checkpoint(generator_optimizer=generator_optimizer,
+                                 generator=generator)
 else:
     checkpoint_prefix = os.path.join(checkpoint_dir, "meta")
+    checkpoint = tf.train.Checkpoint(meta_generator_optimizer=generator_optimizer,
+                                 meta_generator=generator)
 
-checkpoint = tf.train.Checkpoint(generator_optimizer=generator_optimizer,
-                                 generator=generator)
+
 
 if os.path.isdir (checkpoint_dir) :
     checkpoint.restore(tf.train.latest_checkpoint(checkpoint_dir)).expect_partial()
